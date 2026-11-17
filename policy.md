@@ -1,8 +1,7 @@
 ---
 layout: page
-title:
+title: Policies and Student Agreement
 ---
-# Policies and Student Agreement
 
 By scheduling a lesson with me (Beth), you (the student/learner) agree as follows:
 
