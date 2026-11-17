@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+<link href='https://fonts.googleapis.com/css?family=Berkshire Swash' rel='stylesheet'>
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+<header>
+    <a href="/" class="word-mark"><img src="/assets/img/Beth-logo-color.png" /></a>
+    <nav class="nav-links">
+        <a href="/about">About Me</a>
+        <a href="/#why-beth">Why Beth</a>
+        <a href="/#get-started">Get Started</a>
+        <a href="/#pre-reading">Pre-Reading</a>
+        <a href="/consult" class="btn btn-primary">Free Consultation</a>
+        {% include discord.html %}
+    </nav>
+</header>

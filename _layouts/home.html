@@ -1,0 +1,88 @@
+{% include head.html %}
+{% assign data = site.data.home %}
+
+<main class="container">
+    <div class="hero-top">
+        <img class="logo-large" src="/assets/img/Beth-Sunflower-color.png" alt="logo: Voice with Beth" />
+        <div>
+            <div class="greeting">Grow a voice you love.</div>
+            <h1>Voice with Beth</h1>
+            <p class="trust-line">Sessions hosted on Discord • Camera optional</p>
+            <p class="hero-sub">Practical, inclusive voice training built around your goals and learning style.</p>
+        </div>
+    </div>
+
+    <section id="why-beth">
+        <h2>The <em>Voice with Beth</em> Difference</h2>
+        <div class="grid-3">
+            <div class="card">
+                <h3>Multi-Paradigm Approach</h3>
+                <p>
+                    I've apprenticed under both the perceptual-gestalt and Scinguistics models of trans-voice training. This lets me bring the best and most effective ideas together with a deep bag of techniques. You get training that adapts to your existing skills and works around personal challenges.
+                </p>
+            </div>
+            <div class="card">
+                <h3>Diverse Experience</h3>
+                <p>
+                    Throughout my career, I have taught and guided people of all walks of life: First responders, active duty military, truckers, home-makers, and even autistic people.
+                </p>
+                <p>
+                    Whether you are 18 or 80, whatever your background, I will find a way to connect with you and build a safe, effective coaching relationship.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section id="get-started">
+        <h2>Get Started Today</h2>
+        <div class="grid-3">
+            <div class="card">
+                <h3>Let's Chat!</h3>
+                <p>Through a brief and <em>free</em> conversation, we'll figure out your goals and whether we'd be a good match.</p>
+                <p><a href="/consult" class="btn btn-primary">Schedule a Free Consultation</a></p>
+                <p>{% include discord.html %}</p>
+            </div>
+            <div class="card">
+                <h3>Prepare by Reading</h3>
+                <p>Don't pay for a lecture! Read and understand a handful of brief articles, for free, at your leisure. They'll only take a few minutes each.</p>
+                <p><a href="/#pre-reading" class="btn btn-secondary">Pre-Reading</a></p>
+            </div>
+            <div class="card">
+                <h3>Schedule Coaching</h3>
+                <p>There's no time like the present. Assuming we've talked, that is.</p>
+                <p><a href="https://calendar.app.google/dm2WgzL1fNdU9Pg19" target="_blank" class="btn btn-secondary">Get on my schedule</a></p>
+                <p><a href="/pricing" class="btn btn-secondary">Current Pricing</a></p>
+            </div>
+        </div>
+    </section>
+
+
+    <section id="pre-reading">
+        <h2>Pre-Reading Library</h2>
+        <p class="section-intro">
+            Before we get started, and to make sure we get the most out of our time,
+            I would ask that you read and understand each of the following brief articles.
+            They'll only take a few minutes each.
+            If you have any questions, feel free to ask for clarification via discord or e-mail.
+        </p>
+        <p class="section-intro">
+            There is a password buried amongst the articles. I will ask you for it.
+            If you don't find it, we'll spend part of our first session going back over these topics.
+        </p>
+        <div class="grid-3">
+            {% for article in data.articles %}
+            <a href="{{ article.url | relative_url }}" class="card article-card">
+                <div>
+                    <div class="meta-row">
+                        <span>{{ article.time }} minutes</span>
+                    </div>
+                    <h3>{{ article.title }}</h3>
+                    <p>{{ article.summary }}</p>
+                </div>
+            </a>
+            {% endfor %}
+        </div>
+    </section>
+</main>
+
+{% include foot.html %}
