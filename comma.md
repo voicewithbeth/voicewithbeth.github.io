@@ -1,4 +1,7 @@
-# Comma Gets A Cure
+---
+layout: page
+title: Comma Gets A Cure
+---
 
 Well, here's a story for you: Sarah Perry was a veterinary nurse who had been working daily at 
 an old zoo in a deserted district of the territory, so she was very happy to start a new job at a 
