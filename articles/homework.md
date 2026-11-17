@@ -1,4 +1,7 @@
-# About Homework:
+---
+layout: page
+title: About Homework:
+---
 
 Homework is "assigned" in the sense that if you do it, I think it will help you.
 I won't force you to do it, but regular daily *practice* makes regular daily *progress.*

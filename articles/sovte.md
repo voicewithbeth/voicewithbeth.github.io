@@ -1,4 +1,7 @@
-# SOVTEs
+---
+layout: page
+title: SOVTEs
+---
 
 **Semi-Occluded Vocal Tract Exercises** help with recovery and building vocal endurance.
 

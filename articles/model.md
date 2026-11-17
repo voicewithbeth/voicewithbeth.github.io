@@ -1,4 +1,7 @@
-# On Model Voices
+---
+layout: page
+title: On Model Voices
+---
 
 I'm a firm advocate for having two or three "goal-voice" models at least until you're generally happy with your own sound.
 *You can change your goals!*

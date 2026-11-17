@@ -1,4 +1,7 @@
-# The Power-Source-Filter Model
+---
+layout: page
+title: The Power-Source-Filter Model
+---
 
 This model describes the essential functioning of voice. It explains a bit of why we train the way we do, and how to understand the different components of training. It will not tell you when, where, how, or why to train.
 

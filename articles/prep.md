@@ -1,4 +1,7 @@
-# Environmental and Technical Preparation
+---
+layout: page
+title: Environmental and Technical Preparation
+---
 
 **You'll get the most out of voice training in a proper environment.** The following are essential:
 

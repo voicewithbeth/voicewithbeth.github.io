@@ -1,4 +1,7 @@
-# Hydration Break!
+---
+layout: page
+title: Hydration Break!
+---
 
 Rule one is *drink lots of water!* You'll need it while you operate your vocal instrument. (Oh, and never forget [rule zero](./zero)!)
 

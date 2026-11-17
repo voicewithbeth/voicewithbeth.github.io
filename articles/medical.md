@@ -1,4 +1,7 @@
-# Medical Considerations
+---
+layout: page
+title: Medical Considerations
+---
 
 ## I am not a doctor.
 But I might suggest one, if I notice something of concern.

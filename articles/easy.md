@@ -1,4 +1,7 @@
-# Effortless Performance
+---
+layout: page
+title: Effortless Performance
+---
 
 A well-trained voice requires no effort, imposes neither difficulty nor strain, neither physical nor mental nor emotional.
 

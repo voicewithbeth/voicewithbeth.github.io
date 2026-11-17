@@ -1,4 +1,7 @@
-# The Mental Side of Voice Training
+---
+layout: page
+title: The Mental Side of Voice Training
+---
 
 You get out of this what you put into it.
 
