@@ -25,7 +25,6 @@
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
-
 html {
     scroll-padding-top: var(--nav-height);
 }
@@ -133,6 +132,7 @@ nav {
   align-items: center;
   gap: 28px;
   margin-bottom: 36px;
+  min-height: 30dvh;
 }
 .logo-large {
   width: 240px;
@@ -181,7 +181,7 @@ nav {
 }
 
 /* Sections */
-section { margin-top:2%; padding: 2% 0; border-top: 1px solid var(--border-loud); }
+section { margin-top:2%; padding: 2% 0; border-top: 1px solid var(--border-loud); min-height: 40dvh; }
 section h2 { font-size: 1.75rem; margin-bottom: 16px; }
 .section-intro { color: var(--coffee); margin-bottom: 28px; }
 
@@ -235,6 +235,14 @@ section h2 { font-size: 1.75rem; margin-bottom: 16px; }
 p { margin: 0.75em 0; color: var(--text-main); }
 ul, ol { margin: 0 0 20px 24px; }
 li { margin-bottom: 8px; }
+
+blockquote {
+  background: var(--bg-soft);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius);
+  padding: 12px;
+}
+
 
 /* Responsive YouTube Embed */
 .video-wrapper {

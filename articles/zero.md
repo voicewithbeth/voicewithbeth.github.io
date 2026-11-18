@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rule Zero: Do not let voice training hurt!
+title: "Rule Zero: Do not let voice training hurt!"
 ---
 
 **Voice training should never cause pain!**

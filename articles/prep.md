@@ -25,7 +25,7 @@ Also, there are some **useful software programs** to have installed and function
 
 # Baseline Recording
 
-In advance of in-person work, please make a recording of [Comma Gets a Cure](/comma).
+In advance of in-person work, please make a recording of [a sample passage like this one](/penguin).
 Use the voice you're currently most confident with.
 This will serve as a point of reference for comparison so you can see how far you've come at any time.
 
