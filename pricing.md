@@ -13,7 +13,8 @@ If you are particularly flush and can afford to pay double, then you'd be suppor
 ## Discount Programs:
 
 **Student Rates:**
-If you have a current student e-mail (`.edu` or similar national domain like `.ac.uk`), then everything is half-price.
+If you have a current student e-mail (`.edu` or similar national domain like `.ac.uk`), then everything is 30% off.
+That means individual sessions would be $35/hour and the four-session value-pack would be $105.
 
 **Veterans:**
 If all of the following are true, then everything is half-price.
