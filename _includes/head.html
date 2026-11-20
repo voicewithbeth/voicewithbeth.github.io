@@ -3,7 +3,7 @@
 <head><meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 {% assign meta_desc = page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 %}
-{% assign meta_img = page.image | default: "/assets/images/Beth-Sunflower-color.png" | absolute_url %}
+{% assign meta_img = page.image | default: "/assets/img/Beth-logo-color.png" | absolute_url %}
 <meta name="description" content="{{ meta_desc }}">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="{{ site.title }}">
