@@ -29,4 +29,23 @@ Accordingly, speech communities apply subtle and sometimes overt pressure for pe
 
 For example, I have met a decent number of trans women from other countries who very clearly get all the social signals of passing *locally* (e.g. being frau(line) on the telephone) but my General-American ears want to hear a different configuration to be quite convinced on an instinctive level. Meanwhile some of us North American girls probably sound positively squeaky in comparison.
 
-Passing is not something you do. It's something done to you.
+**Passing is not something you do. It's something done to you.**
+
+## If you really must know:
+
+Seriously, don't worry about it. Get the brain-worms out of your head. Evaluate your vocal features and compare to your models.
+Are you in the neighborhood? Then yes, you're fine. And if no, then use your training to fix it!
+
+If you really, desperately, obsessively need a second opinion on the matter,
+then first ask yourself two questions:
+
+* Will you calmly and rationally accept what you're told *regardless of the answer,* or will you invent some conspiratorial reason why the other person is being disingenuous?
+* What will you do differently depending on the answer you get, *in light of your own self-evaluation?*
+
+If the answers are "calmly" for the former and something definite, concrete, distinct, and self-actualizing in both cases for the latter;
+then *and only then* you may start looking for social proof.
+I won't suggest any specifics,
+but there might be some sort of professional or public service you need to inquire after by telephone.
+Do strangers use words like "sir" or "ma'am" with you when they don't know your name or appearance? You have your answer.
+
+**Do not trust gaming lobbies or political discussion servers.** These can be prone to online toxicity.

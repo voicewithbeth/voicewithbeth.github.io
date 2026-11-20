@@ -42,12 +42,17 @@ Naturally, you can practice in lower stakes situations first, then medium, and f
 
 Low-stakes might be friends and accomplices who will implicitly support your vocal transformation.
 This could also include random strangers who will have no prior expectations around how you sound.
+Here, the idea is to go all-out and use everything you know.
 
 Medium-stakes might be transactional meetings where you need to be understood, but there's little risk of long-term issues.
 These are appropriate when you have good strategies and the self-awareness to fix yourself when something *begins* to go sideways.
+While you're still gaining mastery, these interactions might call for you to focus on one or perhaps two skills.
+You'll also want to have good recovery tools in place.
 
 High-stakes interactions -- the kind where you can't afford to slip -- might best be saved for when you're more confident.
-You'll know when this is.
+You'll know when this is. You may find a way to still practice some small feature that won't lead to trouble.
+
+As you gain mastery over time, you'll be able to use more skills in more places with confidence. Do it.
 
 Finally, some people have the misfortune to have people they just can't afford to use a new voice around *ever.*
 If this is you, then, well, put your personal safety first.

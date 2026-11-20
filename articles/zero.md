@@ -39,3 +39,18 @@ Yes, permanent damage is possible, but it is rare and tends to result from persi
 Read [this article from UT Southwestern Medical Center](https://utswmed.org/medblog/vocal-cords-care/) for more about preventing,
 detecting, and treating vocal damage.
 
+## IMPORTANT DISCLAIMER
+
+**I am not a medical professional.**
+Take your medical advice from a properly licensed and certified practitioner.
+
+If you have:
+
+* pain in or around the vocal tract - even in the slightest
+* trouble swallowing food or drink
+* difficulty speaking *at all*
+* any other vocal-health concern
+
+then please solve those problems before embarking on a voice training journey!
+
+I'll do my best to lead you in healthy ways, but ultimately you need to be responsible for your own vocal health.
