@@ -13,52 +13,32 @@ Dysphoria can sometimes push people to work hard instead of smart. If that's you
 
 Common sense, right?
 
-## What if I do hurt my voice?
+Read [this article from UT Southwestern Medical Center](https://utswmed.org/medblog/vocal-cords-care/)
+for more about preventing, detecting, and treating vocal damage.
 
-Realistically, **nothing I ask you to do should put you at any risk of this,**
-but if at any time you experience sudden, sharp, or stabbing physical pain in or around the larynx,
-then **STOP** what you are doing immediately. Take a sip of water if you can, and let me know.
+## Speaking should not cause pain either!
 
-**See a doctor immediately if you:**
+If you have laryngitis, see a doctor. If it hurts to talk, see a doctor and make sure you're not sick.
 
-* cough up blood,
-* have difficulty swallowing,
-* feel a (new) lump in your neck,
-* experience pain when speaking or swallowing,
-* have difficulty breathing,
-* or lose your voice completely for more than a few days.
+Occasionally I'll see a member of the community who has elsewhere developed a poor coordination that leads
+first to a raspy sound and eventually to chronic pain with speaking. If this is you, then I have good news:
+It's generally treatable without too much trouble. It will be work to unlearn bad physical habits,
+but the methods are not too complicated.
 
-Otherwise, the best thing will normally be complete vocal rest and vigilant hydration for a few days to a week.
-Then, ease gently back into ordinary speaking as tolerated.
-If symptoms don't improve on a reasonable time scale, you might want to see a specialist.
-
-## What about subtle problems?
-
-Overusing your voice, or treating it harshly, can indeed lead to trouble over time.
-
-**Warning signs include:**
-
-* Hoarseness
-* Irritation
-* Frequent Cough
-* Scratchy voice
-* Persistent lump in throat
-* Persistent tension in face, jaws, or neck
-* Lost pitch range or control
-
-The usual solution is rest, time, and treating your voice more gently.
-But if things don't get better within 2-3 weeks, it's time to see a doctor.
+**To avoid this problem in the first place,** I take a two pronged approach.
+The first is to prefer techniques with *inherently* low risks.
+The second is to mitigate risks where a technique's benefits are worthwhile.
+Generally an ounce of prevention is worth a pound of cure.
 
 # Last Words
 
-Even if you overstep your limits and hit some irritation, all is not generally lost.
-A period of vocal rest is usually sufficient to let things heal.
+Even if you overstep your limits, all is not generally lost.
+A period of vocal rest is usually sufficient to let minor heal.
 Take note of your limits and moderate your vocal activities accordingly.
-Yes, permanent damage is possible, but it is rare and tends to result from persistent disrespect for the signals your body sends you.
+Yes, permanent damage is conceivably possible, but it is exceedingly rare and
+tends to only result from persistent disrespect for the signals your body sends you.
 
-
-Read [this article from UT Southwestern Medical Center](https://utswmed.org/medblog/vocal-cords-care/) for more about preventing,
-detecting, and treating vocal damage.
+Once again, the stuff we do is not prone to causing trouble, so long as you receivne
 
 ## IMPORTANT DISCLAIMER
 
