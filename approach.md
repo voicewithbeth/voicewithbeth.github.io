@@ -35,7 +35,7 @@ If you're starting from scratch, a typical progression might go as follows:
 
 * Pitch and Vocal Weight
 * Vocal Tract Size and Shape
-* Combining These (which can be a challenge, at first)
+* Combining these (which can be a challenge, at first)
 * Fine-tuning to match model voices
 * Identifying and adjusting the elements of prosody in speech
 * Pronunciation changes associated with regional accent dimorphism
