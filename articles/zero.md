@@ -20,25 +20,27 @@ for more about preventing, detecting, and treating vocal damage.
 
 If you have laryngitis, see a doctor. If it hurts to talk, see a doctor and make sure you're not sick.
 
-Occasionally I'll see a member of the community who has elsewhere developed a poor coordination that leads
-first to a raspy sound and eventually to chronic pain with speaking. If this is you, then I have good news:
+Occasionally I'll see a member of the community who has elsewhere developed a poor speaking coordination
+that leads eventually to chronic pain with speech. If this is you, then I have good news:
 It's generally treatable without too much trouble. It will be work to unlearn bad physical habits,
 but the methods are not too complicated.
 
 **To avoid this problem in the first place,** I take a two pronged approach.
 The first is to prefer techniques with *inherently* low risks.
-The second is to mitigate risks where a technique's benefits are worthwhile.
-Generally an ounce of prevention is worth a pound of cure.
+The second is to teach you how to avoid whatever hazards remain.
+I won't completely discount a highly-effective technique simply because some people have misused it and faced consequences,
+but I will take pains to make sure you don't become one of those people.
 
 # Last Words
 
 Even if you overstep your limits, all is not generally lost.
-A period of vocal rest is usually sufficient to let minor heal.
+A period of vocal rest is usually sufficient to let minor irritations heal.
 Take note of your limits and moderate your vocal activities accordingly.
 Yes, permanent damage is conceivably possible, but it is exceedingly rare and
 tends to only result from persistent disrespect for the signals your body sends you.
 
-Once again, the stuff we do is not prone to causing trouble, so long as you receivne
+Once again, the stuff we do is not prone to causing trouble in and of itself.
+But if you are suffering with your voice, it's totally appropriate to delay lessons until you're feeling better.
 
 ## IMPORTANT DISCLAIMER
 
