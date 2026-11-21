@@ -3,30 +3,51 @@ layout: page
 title: "Rule Zero: Do not let voice training hurt!"
 ---
 
-**Voice training should never cause pain!**
+## Voice training should never cause pain!
 
-Early warning signs of a problem include:
+**Voice training is generally safe and effective.** We should not be doing anything to cause pain or damage.
+However, occasionally people do strange things, get sick, and/or push themselves beyond what they're ready for.
+Dysphoria can sometimes push people to work hard instead of smart. If that's you, then let's smarten you up.
 
-* **Pain**
+**The best way to avoid vocal damage is to listen to your body and the signals it sends you.**
+
+Common sense, right?
+
+## What if I do hurt my voice?
+
+Realistically, **nothing I ask you to do should put you at any risk of this,**
+but if at any time you experience sudden, sharp, or stabbing physical pain in or around the larynx,
+then **STOP** what you are doing immediately. Take a sip of water if you can, and let me know.
+
+**See a doctor immediately if you:**
+
+* cough up blood,
+* have difficulty swallowing,
+* feel a (new) lump in your neck,
+* experience pain when speaking or swallowing,
+* have difficulty breathing,
+* or lose your voice completely for more than a few days.
+
+Otherwise, the best thing will normally be complete vocal rest and vigilant hydration for a few days to a week.
+Then, ease gently back into ordinary speaking as tolerated.
+If symptoms don't improve on a reasonable time scale, you might want to see a specialist.
+
+## What about subtle problems?
+
+Overusing your voice, or treating it harshly, can indeed lead to trouble over time.
+
+**Warning signs include:**
+
 * Hoarseness
 * Irritation
 * Frequent Cough
 * Scratchy voice
 * Persistent lump in throat
 * Persistent tension in face, jaws, or neck
+* Lost pitch range or control
 
-If something you do with your voice is ever *physically* painful, **STOP** what you are doing immediately.
-***IT WAS WRONG!***
-Take a sip of water if you can, and let me know.
-
-------
-
-If you persist in whatever thing is causing those symptoms, it could lead to permanent vocal damage.
-
-Generally the best thing for it will be complete vocal rest for a few days to a week and then gently easing back into ordinary speaking as tolerated.
-Then, we'll have to take things more slowly and deliberately.
-
-If symptoms don't improve on a reasonable time scale, you might want to see a specialist.
+The usual solution is rest, time, and treating your voice more gently.
+But if things don't get better within 2-3 weeks, it's time to see a doctor.
 
 # Last Words
 
