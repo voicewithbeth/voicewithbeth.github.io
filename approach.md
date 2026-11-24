@@ -27,21 +27,35 @@ It follows a consistent process:
 
 ## Typical Curriculum
 
-There is no magic schedule:
-Everyone faces a unique set of demons,
-so different people make progress on different skills at different speeds.
+Each bullet point is meant to take approximately one lesson, assuming everything runs perfectly.
+Occasional difficulties are normal, but most people get past them with a little extra time.
+If you're not starting from scratch, then I'm happy to move quickly through your existing skills.
+I can also handle certain basic remedial work, although I reserve the discretion to refer you out to a specialist if that seems warranted.
 
-If you're starting from scratch, a typical progression might go as follows:
+<div class="grid-2">
+    <div class="card">
+        <h3>Essential Skills</h3>
+        <p>These are typically weekly:</p>
+        <ul>
+            <li>Pitch and Vocal Weight</li>
+            <li>Vocal Tract Size and Shape</li>
+            <li>Combining and coordinating skills</li>
+            <li>Fine-tuning to match model voices</li>
+        </ul>
+    </div>
+    <div class="card">
+        <h3>More Advanced Work</h3>
+        <p>These might be once every two weeks:</p>
+        <ul>
+            <li>Identifying and adjusting the elements of prosody in speech</li>
+            <li>Pronunciation changes associated with regional accent dimorphism</li>
+            <li>Modifying the sound of your laugh, cry, sneeze, ouch, and the like</li>
+            <li>Portraying different moods and roles effectively</li>
+            <li>Maintaining the voice in demanding, high-stress situations</li>
+        </ul>
+    </div>
+</div>
 
-* Pitch and Vocal Weight
-* Vocal Tract Size and Shape
-* Combining these (which can be a challenge, at first)
-* Fine-tuning to match model voices
-* Identifying and adjusting the elements of prosody in speech
-* Pronunciation changes associated with regional accent dimorphism
-* Modifying the sound of your laugh, cry, sneeze, ouch, and the like
-* Portraying different moods and roles effectively
-* Maintaining the voice in demanding, high-stress situations
 
 ## Last Words
 
