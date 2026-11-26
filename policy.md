@@ -19,8 +19,11 @@ By scheduling a lesson with me (Beth), you (the student/learner) agree as follow
 * Lessons **shall** be scheduled no less than five days apart. *Weekly lessons are typical.*
 * If you cannot make it to your lesson at the appointed time, you **should** let me know as soon as possible.
 * If you give less than 24 hours notice for a lesson that is missed or 15 minutes late, and:
-    * You have paid in advance: You will forfeit the lesson fee.
-    * I have arranged to bill you after the lesson: You will owe (and be billed) full price for the missed lesson.
+    * First time: No harm no foul; we'll reschedule - no questions asked.
+    * Acts of god, natural disaster, medical emergency, etc. are always forgiven.
+    * Otherwise, at instructor's discretion:
+        * If you have paid in advance: You may forfeit all or part of the lesson fee.
+        * If I have arranged to bill you after the lesson: You may owe (and be billed) up to full price for the missed lesson.
 * If I am unable to make the scheduled time, I will endeavor to give you 24 hours notice. If I fail:
     * Less than 5 minutes late, we'll run overtime.
     * Between 5 and 15 minutes: We can either run overtime, reschedule, or add time to a future lesson by agreement.
